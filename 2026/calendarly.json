@@ -1,0 +1,14 @@
+{
+  "name": "Calendarly",
+  "url": "https://getcalendarly.com/black-friday",
+  "description": "See your day without unlocking your phone. Calendarly puts your meetings and to-dos right on your Lock Screen and updates them every morning",
+  "category": "productivity",
+  "platforms": ["ios"],
+  "deal": "44% off Lifetime Pro ($24.99 → $13.99), one payment, no code",
+  "pricing": "lifetime",
+  "price": { "regular": 24.99, "sale": 13.99, "currency": "USD" },
+  "discount": 44,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://getcalendarly.com/apple-touch-icon.png"
+}
