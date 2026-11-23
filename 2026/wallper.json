@@ -1,0 +1,19 @@
+{
+  "name": "Wallper",
+  "url": "https://www.wallper.app/pricing?utm_source=indiegoodies",
+  "description": "Live 4K video wallpapers for the Mac desktop and Lock Screen, plus a desktop that follows the music you play, with synced lyrics",
+  "category": "utilities",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "50% off the one-time Pro and Pro+ licenses, no code needed",
+  "pricing": "one-time",
+  "price": {
+    "regular": 14.99,
+    "sale": 7.49,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-23",
+  "endDate": "2026-11-30"
+}
